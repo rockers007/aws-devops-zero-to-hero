@@ -17,3 +17,7 @@ If not, run the below command
 ```
 eksctl utils associate-iam-oidc-provider --cluster $cluster_name --approve
 ```
+```
+.\eksctl.exe  utils associate-iam-oidc-provider --cluster  demo-cluster --approve
+```
+ 
